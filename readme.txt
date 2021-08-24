@@ -12,3 +12,4 @@
    Git has a mutable index called stage.
    Git tracks changes of files.
 7、测试版本库	
+8、完成文件工作
