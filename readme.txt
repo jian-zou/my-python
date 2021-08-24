@@ -13,3 +13,4 @@
    Git tracks changes of files.
 7、测试版本库	
 8、完成文件工作
+My stupid boss still prefers SVN
