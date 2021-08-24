@@ -13,6 +13,10 @@
    Git tracks changes of files.
 7、测试版本库	
 8、完成文件工作
-My stupid boss still prefers SVN
+My stupid boss still prefers Git
 9、提交代码
+<<<<<<< HEAD
 15、commit
+=======
+15、commit
+>>>>>>> b1f1d8b (#1.bug first)
